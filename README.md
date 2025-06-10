@@ -7,22 +7,22 @@
 
 ## 🚀 About Me
 
-I am a passionate data analyst with a strong background in data cleaning, exploration, visualization, and reporting. Proficient in tools such as SQL, Tableau, Python, and R, I enjoy transforming complex data into actionable insights.
+I am a passionate data analyst with a strong background in data cleaning, exploration, visualization, and reporting. Proficient in tools such as Excel, SQL, Power BI, Tableau, Python, and R, I enjoy transforming complex data into actionable insights.
 
 ---
 
 ## 🛠️ Skills
 
+- **Tools & Productivity Platforms:** Microsoft 365, Google Workspace.
 - **Programming Languages:** SQL, Python, R
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
-- **Data Analysis:** Pandas, NumPy, Scikit-learn
-- **Tools & Platforms:** Jupyter Notebook, Git, GitHub
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 
 ---
 
 ## 📌 Pinned Projects
 
-- [Data_Analysis_Portfolio](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio): Various data analysis projects demonstrating skills in data cleaning, exploration, visualization, and reporting using tools such as SQL, Python, Tableau, Power BI, and R.
+- [E-commerce_Data_Analysis_Dashboard](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard): This project presents a comprehensive Power BI dashboard analyzing an e-commerce dataset, providing insights into sales trends, customer behavior, product performance, and RFM segmentation. The dashboard is designed for business stakeholders to monitor performance and make data-driven decisions.
+- [Uber_Data_Analysis_Dashboard](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard): This dashboard project presents an exploratory data analysis of Uber ride data for 2016 using Power BI. It tracks core KPIs like Total Bookings, Trip Distance, and Trip Purpose across time, location, and category dimensions.
 
 ---
 
