@@ -23,6 +23,8 @@ I am a passionate data analyst with a strong background in data cleaning, explor
 
 - [E-commerce_Data_Analysis_Dashboard](https://github.com/ReemSaeedMetwally/E-commerce_Data_Analysis_Dashboard): This project presents a comprehensive Power BI dashboard analyzing an e-commerce dataset, providing insights into sales trends, customer behavior, product performance, and RFM segmentation. The dashboard is designed for business stakeholders to monitor performance and make data-driven decisions.
 - [Uber_Data_Analysis_Dashboard](https://github.com/ReemSaeedMetwally/Uber_Data_Analysis_Dashboard): This dashboard project presents an exploratory data analysis of Uber ride data for 2016 using Power BI. It tracks core KPIs like Total Bookings, Trip Distance, and Trip Purpose across time, location, and category dimensions.
+- [Automobile_Price_Prediction](https://github.com/ReemSaeedMetwally/Automobile_Price_Prediction)
+- [Financial_Loan_Data_Dashboard](https://github.com/ReemSaeedMetwally/Financial_Loan_Data_Dashboard)
 
 ---
 
